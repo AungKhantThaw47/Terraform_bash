@@ -4,3 +4,4 @@
 /mykey.pub
 /terraform.tfvars
 /terraform.tfstate
+/terraform.tfstate.backup
