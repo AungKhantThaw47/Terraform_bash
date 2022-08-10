@@ -3,3 +3,4 @@
 /mykey
 /mykey.pub
 /terraform.tfvars
+/terraform.tfstate
